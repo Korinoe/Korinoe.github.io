@@ -6,7 +6,7 @@ order: 1
 
 <div>
 <h2><img src="/assets/img/icons/resume_icon.png" alt="resume icon" style="height: 60px; width:60px;">
-<a href="({{ site.url }}/assets/pdf/resume.pdf)"> Resume </a></h2>
+<a href="/assets/pdf/resume.pdf"> Resume </a></h2>
 </div>
 
 ## Projects
