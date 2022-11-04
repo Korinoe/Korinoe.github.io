@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   Corinna Hoang personal website.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "http://Korinoe.com"
+url: ''
 
 github:
   username: Korinoe             # change to your github username
