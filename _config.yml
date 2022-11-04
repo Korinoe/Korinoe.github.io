@@ -14,7 +14,7 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   Corinna Hoang personal website.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "http://Korinoe.github.io"
+url: "http://Korinoe.com
 
 github:
   username: Korinoe             # change to your github username
@@ -43,10 +43,10 @@ social:
   # links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
-    # - https://github.com/username       # change to your github homepage
+    - https://github.com/korinoe      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/corinnahoang/
 
 google_site_verification:               # fill in to your verification string
 
