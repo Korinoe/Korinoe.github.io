@@ -7,17 +7,17 @@ order: 1
 <div class = "row">
     <div class = "column" style = "padding-right: 5%;">
         <div class = "leftbox">
-            <h2><img src="/assets/img/icons/resume_icon.png" alt="resume icon" style="height: 60px; width:60px;"><a href="/assets/pdf/resume.pdf"> Resume </a></h2>
+            <h2><img src="/assets/img/icons/resume_icon.png" alt="resume icon" style="height: 60px; width:60px;"><a href="/assets/pdf/resume.pdf" target="_blank"> Resume </a></h2>
         </div>
     </div>
     <div class = "column" style = "padding-right: 5%;">
         <div class = "middlebox">
-            <h2><img src="/assets/img/icons/github_icon.png" alt="github icon" style="height: 60px; width:60px;"><a href="https://github.com/Korinoe"> Github </a></h2>
+            <h2><img src="/assets/img/icons/github_icon.png" alt="github icon" style="height: 60px; width:60px;"><a href="https://github.com/Korinoe" target="_blank"> Github </a></h2>
         </div>
     </div>
     <div class = "column">
         <div class = "rightbox">
-            <h2><img src="/assets/img/icons/linkedin_icon.png" alt="resume icon" style="height: 60px; width:60px;"><a href="https://www.linkedin.com/in/corinnahoang/"> LinkedIn </a></h2>
+            <h2><img src="/assets/img/icons/linkedin_icon.png" alt="resume icon" style="height: 60px; width:60px;"><a href="https://www.linkedin.com/in/corinnahoang/" target="_blank"> LinkedIn </a></h2>
         </div>
     </div>
 </div>
