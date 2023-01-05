@@ -22,7 +22,7 @@ I currently volunteer with the project Choose Native Plants.
 - **[Women in Computing Society](https://drexel.campuslabs.com/engage/organization/women-in-computing-society) (WiCS, Drexel ACM-W)** |
 Fundraising Chair in 2021-2022  
 - **[Sigma Psi Zeta](https://drexelsigmas.wixsite.com/nuchapter) (Sp'18 #117, Nu Chapter)** | 
-Fundraising Chair from 2020-2021, Philantropy Committee from 2019-2021. For Women's History Month (March of 2021), I worked with the sisters of the Upsilon Chapter (UPenn) and Alpha Zeta Charter (USciences) to raise money for non-profits [Women Against Abuse](https://www.womenagainstabuse.org/) and [WOAR](https://www.woar.org/). We also held weekly informational presentations with Drexel's student organization **Women’s Empowerment**.
+Fundraising Chair in 2020-2021, Philantropy Committee in 2019-2021. For Women's History Month (March of 2021), I worked with the sisters of the Upsilon Chapter (UPenn) and Alpha Zeta Charter (USciences) to raise money for non-profits [Women Against Abuse](https://www.womenagainstabuse.org/) and [WOAR](https://www.woar.org/). We also held weekly informational presentations with Drexel's student organization **Women’s Empowerment**.
 
 ## Interests
 I love continously trying new things! Throughout my life so far, I've picked up: crocheting, painting, art, cooking, programming, [vlogging](https://www.youtube.com/channel/UC8XVSjZyQP3jKumJoW8DNQg/featured), thrifting, living sustainability, etc..
