@@ -6,11 +6,10 @@ order: 2
 
 Hi, I'm Corinna [she/her] :seedling:
 
-I recently graduated from Drexel University. In attempt to continue learning I wanted to write about the things I learn post-grad from projects I pick up, along-side pursing a career in the tech industry as a Software Engineer.
+I recently graduated from Drexel University. In attempt to continue learning I wanted to write about the things I learn post-grad from projects I pick up, along-side pursing a career in the tech industry as a Software Engineer. I currently work at Wells Fargo as an Engineering Associate in New York, NY.
 
 ## Background
-I am a Chinese-Vietnamese American, who spent most of my formative years in north Philadelphia, PA. I come from a low-income background and am the first person in my family to pursue higher education. I went to Central High School (information that only matters if you're from Philly :sunglasses:). In college, I did three internships that allowed me to get hands-on experience and learn about different jobs relating to software engineering.
-
+I am a Chinese-Vietnamese American, who spent most of my formative years in north Philadelphia, PA. I come from a low-income background and am the first person in my family to pursue higher education. I went to Central High School (information that only matters if you're from Philly :sunglasses:). I attended Drexel University in 2017 to 2022. I did the five year program that allowed me to do three six-month long full-time internships to get hands on experience and learn about different jobs relating to software engineering. I studied Computer Science with a conentration in Human-Computer Interation and Software Engineering.
 ## Education
 B.S., in Computer Science, 2022, Drexel University :dragon:  
 B.A., 2017 (276 :sparkles:), Central High School, Philadephia, PA  
